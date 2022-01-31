@@ -4,3 +4,5 @@ Jose Ignacio tiene 23 años y nacio en Mexico,
 viviendo en todo el mundo.
 
 Bienvenido, esta es su historia.
+
+Su auto favorito es un Mustang 68, pero actualmente tiene un Civic 2017.
